@@ -1,7 +1,9 @@
 # Estão Meteorológica - 2o semestre de 2022
 ## Alunos
 Alessandro Vinicius da Silva e Lima 
+
 Misael Fernandes Soares 
+
 Túlio Moreira Costa 
 
 - [A estação](#a-estação)
